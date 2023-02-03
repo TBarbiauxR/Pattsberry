@@ -1,1 +1,1 @@
-web: java -jar -Dserver.port=$PORT build/libs/Pattsberrydb-0.0.1-SNAPSHOT.jar
+web: java -jar -Dserver.port=$PORT build/libs/pattsberrydb-0.0.1-SNAPSHOT.jar
