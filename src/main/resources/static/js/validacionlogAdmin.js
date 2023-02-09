@@ -78,5 +78,5 @@ else{
 });
 btnregistrar.addEventListener('click', function (event) {
   event.preventDefault();
-  window.location.href = '../html/Registro.html'; 
+  window.location.href = '../html/registro.html'; 
 });
