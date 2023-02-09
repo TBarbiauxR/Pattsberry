@@ -3,7 +3,7 @@
 
 <h1>PATTSBERRY E-COMMERCE</h1>
 
-El proyecto que se desarrollo fue una pagina web e-commerce para la marca “Pattberry” un emprendimiento que hace productos personalizados y hechos a mano, y entre los principales productos se encuentran las libretas las cuales puedes personalizar la portada, tipo de hoja entre otros detalles y los amigurumis que son adorables figuras tejidas
+El proyecto que se desarrollo fue una pagina web e-commerce para la marca “Pattsberry” un emprendimiento que hace productos personalizados y hechos a mano, y entre los principales productos se encuentran las libretas las cuales puedes personalizar la portada, tipo de hoja entre otros detalles y los amigurumis que son adorables figuras tejidas
 
 
 <h2>Link de la pagina </h2>
